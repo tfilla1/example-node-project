@@ -1,0 +1,27 @@
+{
+  "name": "example-node-project",
+  "version": "1.0.0",
+  "description": "a starter project for node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfilla1/example-node-project.git"
+  },
+  "keywords": [
+    "example",
+    "node",
+    "project"
+  ],
+  "author": "tfilla1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfilla1/example-node-project/issues"
+  },
+  "homepage": "https://github.com/tfilla1/example-node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
